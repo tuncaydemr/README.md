@@ -51,7 +51,6 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
 
 <br>
 
-
 ## Spotify Playing 🎧
 
 [<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/6aqf85deIIJEcGMv05duKu)
