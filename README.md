@@ -34,7 +34,7 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
 <h2>About Me :</h2>
        </a></div>
 <p>
-Mart 2022 ve öncesinde yazılım hakkında hiçbir bilgim yoktu. Mart 2022'de Kodluyoruz Şirketi'nin Back End Web Development bootcamp'ına katıldım ve yazılım dünyasına JAVA dili ile adım attım. JAVA dilinin başlangıç ​​seviyesini tamamladıktan sonra PHP ile devam etmeye karar verdim ve şimdi PHP dilini öğreniyorum. En son teknolojiler konusunda tutkuluyum, ancak ortaya çıkan yeni teknolojilerle zorlu projelere ve yenilikçi çözümlere katkıda bulunmak için yeni fırsatlar arayan motive olmuş bir Web Geliştiricisiyim. Müşterilere ürünleri ve hizmetleri hakkında iyi bir izlenim verebilecek en iyi kullanıcı deneyimini sağlayabilecek daha iyi yazılımlar geliştirmek istiyorum.
+Mart 2022 ve öncesinde yazılım hakkında hiçbir bilgim yoktu. Mart 2022'de Kodluyoruz Şirketi'nin Back End Web Development bootcamp'ına katıldım ve yazılım dünyasına JAVA dili ile adım attım. JAVA dilinin başlangıç seviyesini tamamladıktan sonra PHP ile devam etmeye karar verdim ve şimdi PHP dilini öğreniyorum. En son teknolojiler konusunda tutkuluyum, ancak ortaya çıkan yeni teknolojilerle zorlu projelere ve yenilikçi çözümlere katkıda bulunmak için yeni fırsatlar arayan motive olmuş bir Web Geliştiricisiyim. Müşterilere ürünleri ve hizmetleri hakkında iyi bir izlenim verebilecek en iyi kullanıcı deneyimini sağlayabilecek daha iyi yazılımlar geliştirmek istiyorum.
 </p>
 <br>
 
