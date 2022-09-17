@@ -99,7 +99,7 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
 <br><br>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git profile Trophies</b></i></p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=tuncaydemr&theme=juicyfresh&no-bg=true" />
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=tuncaydemr&theme=juicyfresh&no-bg=true" />
 
 <br><br>
 
