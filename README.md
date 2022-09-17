@@ -106,7 +106,7 @@ I had no knowledge of the software before March 2022 and earlier. I attended the
 <br><br>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git profile Trophies</b></i></p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=tuncaydemr&theme=juicyfresh&no-bg=true" /></td>
+<img src="https://github-profile-trophy.vercel.app/?username=tuncaydemr&theme=juicyfresh&no-bg=true" />
 
 <br><br>
 
