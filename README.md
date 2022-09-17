@@ -13,7 +13,6 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tuncaydemr&label=Profile%20views&color=0e75b6&style=plastic" alt="tuncaydemr" /></p>
 
-
 ---
 
 <div align="center">
