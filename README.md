@@ -25,7 +25,6 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
    </a></div>
    <br>
 
-
 <div align="center">
    <a>
 <h2>About Me :</h2>
