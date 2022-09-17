@@ -33,7 +33,15 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
 
 <br>
 
-<p>I had no knowledge of the software before March 2022 and earlier. I attended the Kodluyoruz Company's Back End Web Development bootcamp in March 2022 and stepped into the software world with the JAVA language. After completing the beginner level of JAVA language, I decided to continue with PHP and now I am learning PHP language. I am passionate about the latest technologies, but I am a motivated Web Developer looking for new opportunities to contribute to challenging projects and innovative solutions with emerging new technologies. I want to develop better software that can provide the best user experience that can give customers a good impression of their products and services.</p>
+<p>Software has been an excellent turning point in my life. In this adventure that I dedicate myself to and feel like a part of my life, I am moving forward with ambition and determination to become a Full Stack Developer from my current position Junior Web Developer. I will do my best and more to give customers the best user experience about their products and services.
+
+Programming Languages : PHP - JAVA
+
+Databases : MySQL
+
+Tools : Git - GitHub - Visual Studio Code - Markdown
+
+Please feel free to contact me, I will do my best to turn your tasks and business goals into a successful product.</p>
 
 <br>
 
