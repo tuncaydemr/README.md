@@ -99,9 +99,9 @@ I had no knowledge of the software before March 2022 and earlier. I attended the
 <p align="center">
  <i><b>Git Activeness</b></i></p>
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Fogo9&show_icons=true&theme=algolia) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fogo9&theme=algolia) |
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=tuncaydemr&show_icons=true&theme=algolia) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuncaydemr&theme=algolia) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fogo9&theme=algolia) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Fogo9&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuncaydemr&theme=algolia) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=tuncaydemr&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) |
 
 <br><br>
 
