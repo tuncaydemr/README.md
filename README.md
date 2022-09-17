@@ -33,8 +33,7 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
 
 <br>
 
-<p>I had no knowledge of the software before March 2022 and earlier. I attended the Kodluyoruz Company's Back End Web Development bootcamp in March 2022 and stepped into the software world with the JAVA language. After completing the beginner level of JAVA language, I decided to continue with PHP and now I am learning PHP language. I am passionate about the latest technologies, but I am a motivated Web Developer looking for new opportunities to contribute to challenging projects and innovative solutions with emerging new technologies. I want to develop better software that can provide the best user experience that can give customers a good impression of their products and services.
-</p>
+<p>I had no knowledge of the software before March 2022 and earlier. I attended the Kodluyoruz Company's Back End Web Development bootcamp in March 2022 and stepped into the software world with the JAVA language. After completing the beginner level of JAVA language, I decided to continue with PHP and now I am learning PHP language. I am passionate about the latest technologies, but I am a motivated Web Developer looking for new opportunities to contribute to challenging projects and innovative solutions with emerging new technologies. I want to develop better software that can provide the best user experience that can give customers a good impression of their products and services.</p>
 <br>
 
 - I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
