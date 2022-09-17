@@ -47,7 +47,7 @@ I had no knowledge of the software before March 2022 and earlier. I attended the
 
 - I’m **good** in **Java** and **PHP** and **Web Development**💪
 
-- Currently Learning **PHP**🤯 and working on improving my **JAVA** skills👨‍💻.
+- Currently Learning **HTML5**🤯 and working on improving my **PHP** skills👨‍💻.
 
 - **Fun fact:** I 💖 to code **24x7**.
 
