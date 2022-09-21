@@ -46,7 +46,7 @@ Please feel free to contact me, I will do my best to turn your tasks and busines
 
 - I’m **good** in **PHP** and **Web Development**💪
 
-- Currently Learning **HTML5**🤯 and working on improving my **PHP** skills👨‍💻.
+- Currently Learning **CSS3**🤯 and working on improving my **PHP** skills👨‍💻.
 
 - **Fun fact:** I 💖 to code **24x7**.
 
