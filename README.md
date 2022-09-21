@@ -52,7 +52,7 @@ Please feel free to contact me, I will do my best to turn your tasks and busines
 
 - Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 
-- I'm currently studying in **Anadolu University Computer Programming**
+- I'm currently studying in **Ataturk University Computer Programming**
 
 <br>
 
