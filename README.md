@@ -32,11 +32,29 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
        
 <p>Software has been an excellent turning point in my life. In this adventure that I dedicate myself to and feel like a part of my life, I am moving forward with ambition and determination to become a Full Stack Developer from my current position Junior Web Developer. I will do my best and more to give customers the best user experience about their products and services.
 
-Programming Languages : PHP - HTML5 - CSS3
+Languages : 
 
-Databases : MySQL - PDO
+1- PHP
 
-Tools : Git - GitHub - Visual Studio Code - Markdown
+2- HTML5
+
+3- CSS
+
+Databases : 
+
+1- MySQL
+
+2- PDO
+
+Tools : 
+
+1- Git
+
+2- GitHub
+
+3- Visual Studio Code
+
+4- Markdown
 
 Please feel free to contact me, I will do my best to turn your tasks and business goals into a successful product.</p>
 
