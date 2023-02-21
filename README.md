@@ -56,7 +56,7 @@ Frameworks :
 
 3- Verot
 
-   <b>Tools :</b> 
+<b><i>Tools :</i></b> 
 
 1- Git
 
