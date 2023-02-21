@@ -48,7 +48,7 @@ Databases :
 
 2- PDO
 
-Frameworks :
+<b><i>Frameworks :</i></b>
 
 1- JQuery
 
@@ -56,7 +56,7 @@ Frameworks :
 
 3- Verot
 
-<b><i><u>Tools :</u></i></b> 
+<b><i><u>Tools :</i></b>
 
 1- Git
 
@@ -68,7 +68,7 @@ Frameworks :
 
 5- Markdown
 
-<b><i><u>Servers :</u></i></b>
+<b><i>Servers :</i></b>
 
 1- Apache
 
