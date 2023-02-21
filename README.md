@@ -56,7 +56,7 @@ Frameworks :
 
 3- Verot
 
-<b><i>Tools :</i></b> 
+<b><i><u>Tools :</u></i></b> 
 
 1- Git
 
@@ -68,7 +68,7 @@ Frameworks :
 
 5- Markdown
 
-<b>Servers :</b>
+<b><i><u>Servers :</u></i></b>
 
 1- Apache
 
