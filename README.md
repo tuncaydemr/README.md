@@ -32,6 +32,8 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
        
 <p>Software has been an excellent turning point in my life. In this adventure that I dedicate myself to and feel like a part of my life, I am moving forward with ambition and determination to become a Full Stack Developer from my current position Junior Web Developer. I will do my best and more to give customers the best user experience about their products and services.
 
+Software has been an excellent turning point in my life. In this adventure that I dedicate myself to and feel like a part of my life, I am moving forward with ambition and determination to become a Full Stack Developer from my current position Junior Web Developer. I will do my best and more to give customers the best user experience about their products and services.
+
 Languages : 
 
 1- PHP
@@ -46,6 +48,14 @@ Databases :
 
 2- PDO
 
+Frameworks :
+
+1- JQuery
+
+2- PHPMailer
+
+3- Verot
+
 Tools : 
 
 1- Git
@@ -54,7 +64,13 @@ Tools :
 
 3- Visual Studio Code
 
-4- Markdown
+4- Adobe Dreamweaver
+
+5- Markdown
+
+<b>Servers :<b>
+
+1- Apache
 
 Please feel free to contact me, I will do my best to turn your tasks and business goals into a successful product.</p>
 
