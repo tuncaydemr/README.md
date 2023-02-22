@@ -34,7 +34,7 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
 
 Software has been an excellent turning point in my life. In this adventure that I dedicate myself to and feel like a part of my life, I am moving forward with ambition and determination to become a Full Stack Developer from my current position Junior Web Developer. I will do my best and more to give customers the best user experience about their products and services.
 
-<b><i>Languages :</i></b>
+<h3><b><i>Languages :</i></b></h3>
 
 1- PHP
 
