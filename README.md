@@ -36,7 +36,7 @@ Software has been an excellent turning point in my life. In this adventure that 
 
 <h3><b><i>Languages :</i></b></h3>
 
-1- PHP
+<li>PHP</li>
 
 2- HTML5
 
