@@ -98,7 +98,7 @@ Please feel free to contact me, I will do my best to turn your tasks and busines
 
 <br>
 
-## Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="27px">
+## <i>Connect with me</i><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="27px">
 
 <a href="https://www.linkedin.com/in/tuncaydemr/">
     <img align="left" alt="Tuncay Demir | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
@@ -114,7 +114,7 @@ Please feel free to contact me, I will do my best to turn your tasks and busines
 
 <br><br>
 
-## Technologies :
+## <i>Technologies :</i>
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -123,7 +123,7 @@ Please feel free to contact me, I will do my best to turn your tasks and busines
 
 <br>
 
-## Tools :
+## <i>Tools :</i>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
