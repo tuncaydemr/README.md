@@ -56,7 +56,7 @@ Software has been an excellent turning point in my life. In this adventure that 
 
 <li>Verot</li>
 
-<h3><b><i><u>Tools :</i></b></h3>
+<h3><b><i>Tools :</i></b></h3>
 
 <li>Git</li>
 
@@ -92,7 +92,7 @@ Please feel free to contact me, I will do my best to turn your tasks and busines
 
 <br>
 
-## Spotify Playing 🎧
+## <i>Spotify Playing</i> 🎧
 
 [<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/6aqf85deIIJEcGMv05duKu)
 
