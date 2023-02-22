@@ -42,13 +42,13 @@ Software has been an excellent turning point in my life. In this adventure that 
 
 3- CSS
 
-<b><i>Databases :</i></b>
+<h3><b><i>Databases :</i></b></h3>
 
 1- MySQL
 
 2- PDO
 
-<b><i>Frameworks :</i></b>
+<h3><b><i>Frameworks :</i></b></h3>
 
 1- JQuery
 
@@ -56,7 +56,7 @@ Software has been an excellent turning point in my life. In this adventure that 
 
 3- Verot
 
-<b><i><u>Tools :</i></b>
+<h3><b><i><u>Tools :</i></b></h3>
 
 1- Git
 
@@ -68,7 +68,7 @@ Software has been an excellent turning point in my life. In this adventure that 
 
 5- Markdown
 
-<b><i>Servers :</i></b>
+<h3><b><i>Servers :</i></b></h3>
 
 1- Apache
 
