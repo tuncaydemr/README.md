@@ -38,9 +38,9 @@ Software has been an excellent turning point in my life. In this adventure that 
 
 <li>PHP</li>
 
-2- HTML5
+<li>HTML5</li>
 
-3- CSS
+<li>CSS</li>
 
 <h3><b><i>Databases :</i></b></h3>
 
