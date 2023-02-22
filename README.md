@@ -44,33 +44,33 @@ Software has been an excellent turning point in my life. In this adventure that 
 
 <h3><b><i>Databases :</i></b></h3>
 
-1- MySQL
+<li>MySQL</li>
 
-2- PDO
+<li>PDO</li>
 
 <h3><b><i>Frameworks :</i></b></h3>
 
-1- JQuery
+<li>JQuery</li>
 
-2- PHPMailer
+<li>PHPMailer</li>
 
-3- Verot
+<li>Verot</li>
 
 <h3><b><i><u>Tools :</i></b></h3>
 
-1- Git
+<li>Git</li>
 
-2- GitHub
+<li>GitHub</li>
 
-3- Visual Studio Code
+<li>Visual Studio Code</li>
 
-4- Adobe Dreamweaver
+<li>Adobe Dreamweaver</li>
 
-5- Markdown
+<li>Markdown</li>
 
 <h3><b><i>Servers :</i></b></h3>
 
-1- Apache
+<li>Apache</li>
 
 Please feel free to contact me, I will do my best to turn your tasks and business goals into a successful product.</p>
 
