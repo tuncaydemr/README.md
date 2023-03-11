@@ -34,48 +34,6 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
 
 At the end of 2022, I came across the software by chance thanks to the discord developer community. I walked in the field of software to chart a path for myself in which direction to go. In my research, it was written that I should start with a programming language. I started the first bootcamp with the Try-Do tactic and continued with the Java language. Thinking that Java language is difficult for me, he started taking trainings on PHP language and when I saw that me enjoyed it very much, I decided to make a Web Site. While I'm driving the web front with HTML, CSS, Javascript, I'm actively preparing the database and server side with PHP and MySQL(PDO) and I enjoy it.</b></i>
 
-<h3><b><i>Languages :</i></b></h3>
-
-<li>PHP</li>
-
-<li>HTML5</li>
-
-<li>CSS</li>
-
-<h3><b><i>Databases :</i></b></h3>
-
-<li>MySQL</li>
-
-<li>PDO</li>
-
-<h3><b><i>Frameworks :</i></b></h3>
-
-<li>JQuery</li>
-
-<li>PHPMailer</li>
-
-<li>Verot</li>
-
-<h3><b><i>Tools :</i></b></h3>
-
-<li>Git</li>
-
-<li>GitHub</li>
-
-<li>Visual Studio Code</li>
-
-<li>Adobe Dreamweaver</li>
-
-<li>Markdown</li>
-
-<h3><b><i>Servers :</i></b></h3>
-
-<li>Apache</li>
-   
-<br>
-
-Please feel free to contact me, I will do my best to turn your tasks and business goals into a successful product.</p>
-
 <br>
 
 - I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
