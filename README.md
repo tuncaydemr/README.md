@@ -66,7 +66,7 @@ At the end of 2022, I came across the software by chance thanks to the discord d
     <img align="left" alt="Tuncay Demir | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 
-<a href="https://github.com/Fogo9">
+<a href="https://github.com/tuncaydemr">
     <img align="left" alt="Tuncay Demir | Github" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" />
   </a> &nbsp;&nbsp;
 
