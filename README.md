@@ -30,9 +30,9 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
 <h2>About Me :</h2>
        </a></div>
        
-<p><b><i>Software has been an excellent turning point in my life. In this adventure that I dedicate myself to and feel like a part of my life, I am moving forward with ambition and determination to become a Full Stack Developer from my current position Junior Web Developer. I will do my best and more to give customers the best user experience about their products and services.
+<p><b><i>Hello 👋
 
-Software has been an excellent turning point in my life. In this adventure that I dedicate myself to and feel like a part of my life, I am moving forward with ambition and determination to become a Full Stack Developer from my current position Junior Web Developer. I will do my best and more to give customers the best user experience about their products and services.</b></i>
+At the end of 2022, I came across the software by chance thanks to the discord developer community. I walked in the field of software to chart a path for myself in which direction to go. In my research, it was written that I should start with a programming language. I started the first bootcamp with the Try-Do tactic and continued with the Java language. Thinking that Java language is difficult for me, he started taking trainings on PHP language and when I saw that me enjoyed it very much, I decided to make a Web Site. While I'm driving the web front with HTML, CSS, Javascript, I'm actively preparing the database and server side with PHP and MySQL(PDO) and I enjoy it.</b></i>
 
 <h3><b><i>Languages :</i></b></h3>
 
