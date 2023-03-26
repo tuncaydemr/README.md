@@ -38,9 +38,9 @@ At the end of 2022, I came across the software by chance thanks to the discord d
 
 - I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
 
-- I’m **good** in **PHP** and **HTML5** and **CSS3**💪
+- I’m **good** in **PHP** and **HTML5** and **CSS3** and **Javascript**💪
 
-- Currently Learning **JavaScript**🤯 and working on improving my **HTML** and **CSS3** and **PHP** skills👨‍💻.
+- Currently Learning **Bootstrap**🤯 and working on improving my **HTML** and **CSS3** and **Javascript** and **PHP** skills👨‍💻.
 
 - **Fun fact:** I 💖 to code **24x7**.
 
