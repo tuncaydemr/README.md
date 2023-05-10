@@ -42,7 +42,7 @@ At the end of 2022, I came across the software by chance thanks to the discord d
 
 - Currently Learning **Bootstrap**🤯 and working on improving my **HTML** and **CSS3** and **Javascript** and **PHP** skills👨‍💻.
    
-- I love working with JQuery framework..
+- I love working with **JQuery** framework..
 
 - **Fun fact:** I 💖 to code **24x7**.
 
