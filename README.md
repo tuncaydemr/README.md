@@ -40,7 +40,7 @@ At the end of 2022, I came across the software by chance thanks to the discord d
 
 - I’m **good** in **PHP**, **HTML5**, **CSS3**, **Javascript**, **JQuery**💪
 
-- Currently Learning **Bootstrap**🤯 and working on improving my **HTML** and **CSS3** and **Javascript** and **PHP** skills👨‍💻.
+- Currently Learning **Laravel** and **Bootstrap**🤯 and working on improving my **HTML** and **CSS3** and **Javascript** and **PHP** skills👨‍💻.
    
 - I love working with **JQuery** framework..
 
