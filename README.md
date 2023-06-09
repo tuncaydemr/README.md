@@ -32,7 +32,7 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
        
 <p><b><i>Hello 👋
 
-At the end of 2022, I came across the software by chance thanks to the discord developer community. I walked in the field of software to chart a path for myself in which direction to go. In my research, it was written that I should start with a programming language. I started the first bootcamp with the Try-Do tactic and continued with the Java language. Thinking that Java language is difficult for me, he started taking trainings on PHP language and when I saw that me enjoyed it very much, I decided to make a Web Site. While I'm driving the web front with HTML, CSS, Javascript, I'm actively preparing the database and server side with PHP and MySQL(PDO) and I enjoy it.</b></i>
+I stumbled upon the software by accident, thanks to the Discord developer community. According to my research, I needed to start with at least one programming language. I started taking trainings on PHP language and When I saw that I liked it very much, I decided to make a Web Site. Now I'm Junior Web Developer but my goal Becoming a Full Stack Web Developer.</b></i>
 
 <br>
 
