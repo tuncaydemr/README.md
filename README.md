@@ -61,7 +61,7 @@ I stumbled upon the software by accident, thanks to the Discord developer commun
 ## <i>Connect with me</i><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="27px">
 
 <a href="https://www.linkedin.com/in/tuncaydemr/">
-    <img align="left" alt="Tuncay Demir | Linkedin" width="50px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Tuncay Demir | Linkedin" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
 
 <a href="mailto:tuncaydemir682@gmail.com">
